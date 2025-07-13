@@ -25,8 +25,6 @@ local dev_mode = false -- Disables stuff like Updates [true/false]
 
 local github = addict.list(addict.my_root(), "Updates", {"addictupdates"})
 addict.hyperlink(github, "Addict Discord", "https://discord.gg/RHvG3XdTmx")
-addict.hyperlink(github, "Changelog link", "https://github.com/Addict0919/2025AddictScript/blob/main/2025AddictScript/AddictScriptChangelog.LUA")
-
 
 async_http.init("raw.githubusercontent.com","/Addict0919/2025AddictScript/main/2025AddictScript/AddictScriptChangelog.LUA",function(b)
     response=true;
