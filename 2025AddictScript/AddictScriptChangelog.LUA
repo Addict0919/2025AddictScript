@@ -1,6 +1,5 @@
 ________________________
 v0.04
-
 [-] Added credits to CoalwiX
 [-] Added FSL Money
 [-] Added cargobob kidnap
@@ -32,7 +31,5 @@ v0.04
 [-] Added block entrances
 [-] Added tornado
 [-] Added tornado 2.0
-
 [!] Removed aalib.dll (Bruh sound on lua startup) to remove flagged false positives when installing ________________________
-
 [!] Report any Bugs/Broken features on the Discord
