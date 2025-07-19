@@ -1,35 +1,19 @@
 ________________________________________________
-v0.04
-[-] Added credits to CoalwiX
-[-] Added FSL Money
-[-] Added cargobob kidnap
-[-] Added cargobob confiscate
-[-] Added push player up
-[-] Added metro madness
-[-] Added drunk pilot
-[-] Added garage doors troll
-[-] Added nuke
-[-] Added bri''ish attacker
-[-] Added sirens all nearby players
-[-] Added kill all engines
-[-] Added remove wheels
-[-] Added all cars sink
-[-] Added honk all cars
-[-] Added fuck up all cars
-[-] Added destruction (map cars troll)
-[-] Added fly nearby vehicles
-[-] Added bounce nearby vehicles
-[-] Added 360 nearby vehicles
-[-] Added 360 Self vehicle
-[-] Added spinbot nearby vehicles
-[-] Added all vehicles pink
-[-] Added all vehicles rainbow
-[-] Added invisible peds
-[-] Added spinbot peds
-[-] Added spinbot self ped
-[-] Added explode map
-[-] Added block entrances
-[-] Added tornado
-[-] Added tornado 2.0
-[!] Removed aalib.dll (Bruh sound on lua startup) to remove flagged false positives when installing ________________________________________________
+v0.05
+[-] Added Trolly vehicles
+[-] Added Tp all over map v1/v2
+[-] Added Throw cars/peds
+[-] Added All peds play guitars/bongos
+[-] Added Random entity spawner
+[-] Added Stack entitys
+[-] Added Flying whales
+[-] Added Tp options
+[-] Added Heli attachment fun in attach options
+[-] Added $2k ped cash drops on players/self
+[-] Added Sky text (prints text in the sky made out of vehicles)
+[-] Added Stick to wals (Vehicle)
+[-] Added Self>Poop
+[-] Added Players>NAME>Trolling>Torment Shit>Huge Shit On Head
+[!] Removed Trailer crash (broken and wasn't worth fixing)
+Fixed Bugs`
 [!] Report any Bugs/Broken features on the Discord
