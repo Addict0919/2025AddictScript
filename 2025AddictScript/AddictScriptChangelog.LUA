@@ -11,7 +11,7 @@ v0.05
 [-] Added Heli attachment fun in attach options
 [-] Added $2k ped cash drops on players/self
 [-] Added Sky text (prints text in the sky made out of vehicles)
-[-] Added Stick to wals (Vehicle)
+[-] Added Stick to walls (Vehicle)
 [-] Added Self>Poop
 [-] Added Players>NAME>Trolling>Torment Shit>Huge Shit On Head
 [!] Removed Trailer crash (broken and wasn't worth fixing)
