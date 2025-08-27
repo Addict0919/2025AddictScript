@@ -17,3 +17,11 @@ v0.05
 [!] Removed Trailer crash (broken and wasn't worth fixing)
 Fixed Bugs`
 [!] Report any Bugs/Broken features on the Discord
+________________________________________________
+v0.06
+[-] Added Steal players Engines
+[-] Added Steal Wheels
+[-] Added Steal Tyres
+[-] Added Hitchhiker Chaos
+[-] Added Car Magent
+[-] Added Lexis Crashes
