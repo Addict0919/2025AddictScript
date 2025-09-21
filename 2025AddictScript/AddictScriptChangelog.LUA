@@ -1,3 +1,4 @@
+___________________________________________________
 v0.09
 [-] Added all stands kicks & crashes to get to them faster
 [!] Fixed bug with ride a skateboard not working (Still has the floating bug)
@@ -9,4 +10,4 @@ v0.09
 [!] Fixed bugs with tp options
 [!] Removed old crashes
 [!] Changed lexis crashes around and renamed them slightly
-________________________________________________
+___________________________________________________
