@@ -1,4 +1,3 @@
-________________________________________________
 v0.09
 [-] Added all stands kicks & crashes to get to them faster
 [!] Fixed bug with ride a skateboard not working (Still has the floating bug)
@@ -11,19 +10,3 @@ v0.09
 [!] Removed old crashes
 [!] Changed lexis crashes around and renamed them slightly
 ________________________________________________
-v0.07
-[-] Added Zombies Survival Mode
-[-] Added Ride skateboard
-[-] Added Ride surfboard
-[-] Added Spawn Objects (Custom offsets)
-[-] Added DeSync Doctor
-[-] Added Vehicle Attachments
-[!] Fixed Bugs with clone centipede
-________________________________________________
-v0.06
-[-] Added Steal players Engines
-[-] Added Steal Wheels
-[-] Added Steal Tyres
-[-] Added Hitchhiker Chaos
-[-] Added Car Magent
-[-] Added Lexis Crashes
